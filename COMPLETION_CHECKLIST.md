@@ -142,8 +142,8 @@ Server should show:
 
 ### Required Environment Variables
 ```env
-✓ API_KEY=AIzaSyBAnBM24fukNhdf_u-OOPGwSEEXlmScLT0
-✓ PSI_API_KEY=AIzaSyBNR5agWn__mJGBabJl-w8AlmTwcdedrbs
+✓ API_KEY=put api key here
+✓ PSI_API_KEY=put api key here
 ```
 
 ### Optional Environment Variables
