@@ -49,8 +49,8 @@ Google Cloud APIs
 
 ### Current .env (Updated)
 ```env
-API_KEY=AIzaSyBAnBM24fukNhdf_u-OOPGwSEEXlmScLT0
-PSI_API_KEY=AIzaSyBNR5agWn__mJGBabJl-w8AlmTwcdedrbs
+API_KEY=place key here
+PSI_API_KEY=place key here
 SERVER_PORT=3001
 REACT_APP_SERVER_URL=http://localhost:3001
 ```
