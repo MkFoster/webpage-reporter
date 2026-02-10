@@ -1,0 +1,5 @@
+{
+  "name": "Web Page Reporter",
+  "description": "A holistic web analysis tool combining PageSpeed Insights performance data with Gemini's visual and effectiveness evaluation.",
+  "requestFramePermissions": []
+}
